@@ -1,0 +1,212 @@
+/*  ==============================================
+
+Spartan Colors, and style overrides
+
+Primary Color = #cf102d
+Primary Color - Hover = #8b1022
+
+============================================== */
+
+h4,
+a,
+.color-text,
+.button-dark,
+ul.nav li a:hover,
+ul.nav li.active a,
+.featured .event-recap div h3,
+.plan-price,
+.program table thead td h3,
+ul.downloads li a:hover,
+ul.downloads li a i,
+ul.nav li:hover > a,
+.teaser .text-container h1 {
+	color: #cf102d;
+}
+
+a:hover {
+	color: #8b1022;
+}
+
+.color-background,
+.button-dark:hover,
+.flex-control-paging li a.flex-active,
+.featured h2,
+.featured form input[type="submit"],
+.featured a.event-button,
+.testimonials .testimonial:hover .bubble,
+.plan .plan-title,
+.button-row a,
+.program table:hover thead td,
+.register form input[type="submit"],
+.contact form input[type="submit"],
+.social li a:hover,
+.feature:hover .icon-container {
+	background: #cf102d;
+}
+
+.checkbox-on .checkbox-placeholder,
+.gallery .image-container a,
+.prices a.ticket-button {
+	background-color: #cf102d;
+}
+
+.checkbox-on .checkbox-placeholder {
+	background-color: #cf102d !important;
+}
+
+.featured form input[type="submit"]:hover,
+.featured a.event-button:hover,
+.prices .ticket:hover a.ticket-button,
+.register form input[type="submit"]:hover,
+.contact form input[type="submit"]:hover {
+	background: #8b1022;
+}
+
+.testimonials .testimonial:hover .bubble:after {
+	border-top-color: #cf102d;
+}
+
+/* =========== Style Overrides ============ */
+h1 {
+	font-weight: bold;
+	letter-spacing: -0.05rem;
+}
+.header {
+	background: #151515;
+	height: 93px;
+	border-bottom: 3px solid #cf102d;
+}
+.logo {
+	padding-top: 0;
+}
+img.full-width {
+	width: 100%;
+}
+ul.nav li a {
+	line-height: 90px;
+	font-weight: bold;
+	font-size: 1rem;
+	text-transform: uppercase;
+	color: #cf102d;
+}
+
+ul.nav li a:hover,
+ul.nav li.active a {
+	background: #cf102d;
+	color:#d4d4d4;
+}
+ul.info {
+	list-style-type: square;
+	font-size: 20px;
+	line-height: 26px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	margin-bottom: 30px;
+}
+ul.info li {
+	margin: 15px 0;
+}
+.teaser {
+	background: #EDECEC url(../images/spartanup-bg.png) no-repeat center center;
+}
+
+.featured {
+	margin-top: -355px;
+}
+
+.featured h2 {
+	border-radius: 0;
+}
+
+.featured form, .featured .event-recap {
+	border-radius: 0;
+}
+
+.featured form input {
+	border-radius: 3px;
+}
+
+.featured form input[type="submit"], .button-dark, .featured a.event-button {
+	box-shadow: inset 0px -4px 0px rgba(0,0,0,0.3);
+	padding: 12px 20px 18px 20px;
+	border-radius: 3px;
+}
+
+.featured form input[type="submit"], .featured a.event-button {
+	padding: 5px 20px 10px 20px;
+}
+
+
+.featured .event-recap img, .teaser img {
+	width: 100%;
+	height: auto;
+}
+
+.teaser img {
+	margin: 50px 0;
+}
+
+.teaser h2 {
+	margin: 15px 0;	
+}
+
+.social li a {
+-webkit-border-radius: 3px; 
+   -moz-border-radius: 3px; 
+     -o-border-radius: 3px; 
+        border-radius: 3px;
+}
+
+.social li a i {
+	color: inherit;
+}
+
+.social li a.social-button-google-plus,
+.social li a.social-button-twitter,
+.social li a.social-button-facebook {
+	color:white;
+} 
+
+.social li a.social-button-google-plus:hover,
+.social li a.social-button-twitter:hover,
+.social li a.social-button-facebook:hover {
+	color:#cf102d;
+	background-color: white;
+} 
+
+.social li a.social-button-google-plus {
+	background-color: #D34836 ;
+}
+
+.social li a.social-button-twitter {
+	background-color: #4099FF;
+}
+
+.social li a.social-button-facebook {
+	background-color: #3B5999;
+}
+
+audio {
+	width:100%;
+}
+
+.teaser .flexslider,
+.teaser .video {
+	margin: 40px 0; 
+}
+
+.dark-gray-background h2 {
+	color: #ffffff;
+	margin: 0px;
+	font-weight: 700;
+}
+
+.dark-gray-background .container {
+	padding: 25px 0 30px 0;
+}
+
+.white-background p {
+	font-size: 16px;
+	font-weight: 300;
+}
+
