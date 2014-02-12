@@ -24,10 +24,10 @@
 						=============================================== -->
 						<ul class="nav hidden-xs hidden-sm">
 							<li><a href="index.php">Why Buy?</a></li>
-							<!-- <li><a href="/spartan-up/excerpt.php">Listen</a></li> -->
+							<!-- <li><a href="excerpt.php">Listen</a></li> -->
 							<li><a href="joe.php">About</a></li>
-							<li><a href="http://www.spartanrace.com/spartan-obstacle-racing-events.php">Sign Up!</a></li>
-							<li><a href="#">Subscribe</a></li>
+							<li><a href="http://www.spartanrace.com/spartan-obstacle-racing-events.php">Race!</a></li>
+							<li><a href="http://www.spartanrace.com">Subscribe</a></li>
 						</ul>
 						<!-- End Navigation 
 						=============================================== -->

@@ -24,7 +24,8 @@
 		<link rel="stylesheet" href="css/fancybox/jquery.fancybox.css"/>
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="stylesheet" href="css/style-responsive.css">
-		<link rel="stylesheet" href="css/spartan.css?1">
+		<link rel="stylesheet" href="css/spartan.css">
+		<link rel="stylesheet" href="css/audioplayer.css">
 
 		<!--[if IE 7]>
 			<link rel="stylesheet" href="css/font-awesome-ie7.min.css">

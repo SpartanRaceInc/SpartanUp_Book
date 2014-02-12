@@ -15,7 +15,6 @@
 					<div class="col-sm-9">
 						<h1 class="padding-top">Who is Joe DeSena?</h1>
 						<h2>Joe De Sena is a cofounder of the Spartan Race, which began as an obstacle race based on the extreme spirit of the legendary Death Race, and has become a multi-million dollar global lifestyle company in less than 10 years. It was voted Outside magazine’s Best Obstacle Race. In one year’s </h2>
-						
 					</div>
 					
 					<div class="col-sm-3"><img src="images/spartanup-cover.png" alt="spartanup-cover" /></div>

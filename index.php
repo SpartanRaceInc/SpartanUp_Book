@@ -70,9 +70,9 @@
 
 <h3>&mdash; Who says easier and faster is always better? Adversity paves the road to success.</h3>
 
-<h3>&mdash; Find out how a kid from Queens breaks out, builds multiple businesses, changes lives, and eventually partners with military SpecOps.</h3>
+<h3>&mdash; Find out how a young kid breaks out, builds multiple businesses, changes lives, and eventually partners with military SpecOps.</h3>
 
-<h3>&mdash; Building businesses from 8 years old Joe has had a passion for life that moves the ball forward against all odds. Born in Queens NY to a yoga teaching, meditation practicing mother and an Italian father that was an uber-entrepreneur the author learned simple techniques for forging ahead no matter the odds.</h3>
+<h3>&mdash; An entreprenuer from 8 years old Joe has had a passion for life that moves the ball forward against all odds. Born in Queens NY to a yoga teaching, meditation practicing mother and an Italian father that was an uber-entrepreneur the author learned simple techniques for forging ahead no matter the odds.</h3>
 
 
 					</div>
@@ -94,15 +94,14 @@
 		<section class="color-background hero-section">
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-8 hero-text">
-						<h2>Order now and get $25 your next Spartan Race!</h2>
+					<div class="col-sm-6 hero-text">
+						<h2>Listen to an Audio Excerpt!</h2>
 					</div>
-					<div class="col-sm-2">
-						<a href="http://www.spartanrace.com/spartan-up-amz" class="button-dark">Order on Amazon</a>
-					</div>
-					
-					<div class="col-sm-2">
-						<a href="http://www.spartanrace.com/spartan-up-bn" class="button-dark">Order on B&N</a>
+					<div class="col-sm-6">
+						<audio preload="auto" controls>
+							<source src="audio/joe-su-excerpt.mp3">
+							<source src="audio/joe-su-excerpt.wav">
+						</audio>
 					</div>
 				</div>
 			</div>
@@ -153,7 +152,27 @@
 		</section>
 		<!-- End About 
 		============================================== -->
-		
+		<!-- ==============================================
+		Hero Section
+		=============================================== -->
+		<section class="color-background hero-section">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-8 hero-text">
+						<h2>Order now and get $25 your next Spartan Race!</h2>
+					</div>
+					<div class="col-sm-2">
+						<a href="http://www.spartanrace.com/spartan-up-amz" class="button-dark">Order on Amazon</a>
+					</div>
+					
+					<div class="col-sm-2">
+						<a href="http://www.spartanrace.com/spartan-up-bn" class="button-dark">Order on B&N</a>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Hero Section 
+		============================================== -->		
 		<!-- ==============================================
 		Testimonials
 		=============================================== -->
@@ -219,3 +238,4 @@
 		============================================== -->
 
 <?php require_once('partials/footer.php'); ?>
+<?php require_once('partials/aft.php'); ?>
