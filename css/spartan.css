@@ -110,6 +110,11 @@ ul.info li {
 	background: #EDECEC url(../images/spartanup-bg.png) no-repeat center center;
 }
 
+.teaser h1.bio {
+	letter-spacing: -0.08rem;
+	font-size: 32px;
+} 
+
 .featured {
 	margin-top: -355px;
 }
