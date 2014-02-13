@@ -164,7 +164,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-						<h2 class="no-margin-bottom">What people are saying [<a href="blurbs.php">see more</a>]</h2>
+						<h2 class="no-margin-bottom">What people are saying... <span class="smaller">(<a href="blurbs.php">read more</a>)</span></h2>
 					</div>
 
 					<!-- ==============================================
