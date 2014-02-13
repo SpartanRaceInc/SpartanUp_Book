@@ -74,10 +74,10 @@
 					Third Testimonial Column
 					=============================================== -->
 					<div class="col-md-4">
-					
+					<a href="http://spartan-up.tumblr.com" class="button-light leading-md">Speak Up on Tumblr</a>
 						<div class="testimonial">
 							<div class="bubble">
-								“"Business and fitness don't immediately seem like similar pursuits. What I learned from Spartan Up! most definitely applies to success. Joe De Sena delivers.”
+								“Business and fitness don't immediately seem like similar pursuits. What I learned from Spartan Up! most definitely applies to success. Joe De Sena delivers.”
 							</div>
 							<div class="person">
 								<!-- <img src="images/robyn.jpg" alt="" class="float-left"> -->

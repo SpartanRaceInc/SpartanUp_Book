@@ -131,7 +131,7 @@ ul.info li {
 	border-radius: 3px;
 }
 
-.featured form input[type="submit"], .button-dark, .featured a.event-button {
+.featured form input[type="submit"], .button-dark, .button-light, .featured a.event-button {
 	box-shadow: inset 0px -4px 0px rgba(0,0,0,0.3);
 	padding: 12px 20px 18px 20px;
 	border-radius: 3px;
@@ -216,4 +216,30 @@ audio {
 }
 span.smaller {
 	font-size: smaller;
+}
+
+.button-light {	
+	background: #cf102d;
+	color: #ffffff;
+	padding: 12px 30px 18px 30px;
+	font-size: 20px;
+	font-family: 'Lato', sans-serif;
+	-webkit-transition: background linear .2s, color linear .2s;
+	-moz-transition: background linear .2s, color linear .2s;
+	-o-transition: background linear .2s, color linear .2s;
+	display: block;
+	text-align: center;
+}
+
+.button-light:hover {
+	color: #cf102d;
+	background: #f2f2f2;
+}
+
+.leading-md {
+	margin-bottom: 20px;
+}
+
+.trailing-md {
+	margin-top: 20px;
 }
