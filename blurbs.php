@@ -75,27 +75,7 @@
 					=============================================== -->
 					<div class="col-md-4">
 					<a href="http://spartan-up.tumblr.com" class="button-light leading-md">Speak Up on Tumblr</a>
-						<div class="testimonial">
-							<div class="bubble">
-								“Business and fitness don't immediately seem like similar pursuits. What I learned from Spartan Up! most definitely applies to success. Joe De Sena delivers.”
-							</div>
-							<div class="person">
-								<!-- <img src="images/robyn.jpg" alt="" class="float-left"> -->
-								<h3 class="no-margin-bottom">Chris Brogan</h3>
-								<h4>Publisher Owner Magazine</h4>
-							</div>
-						</div>
-						
-						<div class="testimonial">
-							<div class="bubble">
-								“Spartans were the most disciplined, trained and feared warriors. At a very young age they were subjected to a harsh life of physical hardship to form strong men. This book is a manual for anyone willing to become stronger and more prepared for anything that life throws at them.”
-							</div>
-							<div class="person">
-								<!-- <img src="images/johnb.jpg" alt="" class="float-left"> -->
-								<h3 class="no-margin-bottom">Fabiola Corona</h3>
-								<h4>Olympic triathlete, Ironwoman, Adventure Racer, Mountainbiker and now a Spartan</h4>
-							</div>
-						</div>
+						<script type="text/javascript" src="http://spartan-up.tumblr.com/js?num=3"></script>
 					</div>
 					<!-- End Third Testimonial Column
 					============================================== -->
@@ -107,7 +87,5 @@
 		============================================== -->
 		
 <?php require_once('partials/buysavehero.php'); ?>
-
-
 <?php require_once('partials/footer.php'); ?>
 <?php require_once('partials/aft.php'); ?>

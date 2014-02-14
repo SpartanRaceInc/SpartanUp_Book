@@ -34,6 +34,7 @@ a:hover {
 .featured form input[type="submit"],
 .featured a.event-button,
 .testimonials .testimonial:hover .bubble,
+.tumblr_posts .tumblr_quote_post:hover .tumblr_quote,
 .plan .plan-title,
 .button-row a,
 .program table:hover thead td,
@@ -62,7 +63,7 @@ a:hover {
 	background: #8b1022;
 }
 
-.testimonials .testimonial:hover .bubble:after {
+.testimonials .testimonial:hover .bubble:after, .tumblr_posts .tumblr_quote_post:hover .tumblr_quote:after {
 	border-top-color: #cf102d;
 }
 
@@ -242,4 +243,28 @@ span.smaller {
 
 .trailing-md {
 	margin-top: 20px;
+}
+
+.tumblr_source strong {
+	font-size: 20px;
+	line-height: 30px;
+	color: #333333;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	margin-bottom: 20px;
+	display: block;
+}
+
+.tumblr_source {
+	margin-top: 20px;
+	width: 100%;
+	display: inline-block;
+}
+
+.tumblr_source p {
+	display: none;
+}
+
+.tumblr_source p:first-of-type {
+	display: block;
 }

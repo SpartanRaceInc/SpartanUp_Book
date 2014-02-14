@@ -878,7 +878,7 @@ Plans
 Testimonials
 ============================================== */
 
-.bubble {
+.bubble, .tumblr_quote {
 	position: relative;
 	background: #f2f2f2;
 	padding: 30px;
@@ -895,7 +895,7 @@ Testimonials
 	-o-transition: background linear .2s, color linear .2s;
 }
 
-.bubble:after {
+.bubble:after, .tumblr_quote:after {
 	display: block; 
 	width: 0;
 	content: "";
@@ -909,7 +909,7 @@ Testimonials
 	-o-transition: border-color linear .2s;
 }
 
-.testimonials .testimonial:hover .bubble {
+.testimonials .testimonial:hover .bubble, .tumblr_posts .tumblr_quote_post:hover .tumblr_quote, .tumblr_posts .tumblr_quote_post:hover .tumblr_quote p {
 	color: #ffffff;
 }
 
