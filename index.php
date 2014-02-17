@@ -50,7 +50,7 @@
 					<!-- ==============================================
 					Featured Box
 					=============================================== -->
-					<div class="col-lg-4 col-lg-offset-1 featured float-right">	
+					<div class="col-lg-4 col-lg-offset-1 featured float-right" style="z-index:30;">	
 						<h2 class="feature-title">Order your copy!</h2>
 						<div class="event-recap">
 							<img src="images/spartanup-cover.png" alt="spartanup-cover" />
@@ -62,7 +62,7 @@
 					<!-- End Featured Box
 					=============================================== -->
 
-					<div class="col-lg-12">
+					<div class="col-lg-12" style="z-index:1;">
 						<h2 class="padding-top">Inside <span class="color-text">Spartan Up!</span></h2>
 						<h3>&mdash; If you want to change your life you have to change your frame of reference.</h3>
 
