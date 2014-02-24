@@ -14,8 +14,11 @@
 		     // Get the current URL
             var currentUrl = window.location.pathname;
 
+            // Remove the "/"
+            var pageName = currentUrl.substring(1,currentUrl.length);
+
             // Get the span you want with a combination class and attribute and child jQuery selector
-            var currentMenuItem = $(".nav a[href='" + currentUrl + "']");
+            var currentMenuItem = $(".nav a[href='" + pageName + "']");
 
             // Then add your class
             currentMenuItem.parent().addClass("active");
