@@ -116,6 +116,14 @@ ul.info li {
 	font-size: 32px;
 } 
 
+.teaser img {
+	margin: 50px 0;
+}
+
+.teaser h2 {
+	margin: 15px 0;	
+}
+
 .featured {
 	margin-top: -355px;
 }
@@ -148,12 +156,12 @@ ul.info li {
 	height: auto;
 }
 
-.teaser img {
-	margin: 50px 0;
+.dark-gray-background h1 {
+	color: white;
 }
 
-.teaser h2 {
-	margin: 15px 0;	
+.color-background h2 {
+	margin-bottom: 0;
 }
 
 .social li a {
