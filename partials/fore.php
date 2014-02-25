@@ -7,8 +7,8 @@
 		=============================================== -->
 		<meta charset="utf-8">
 		<title>Spartan Up! by Joseph De Sena</title>
-		<meta name="description" content="Attraction is a multipurpose one/multi page HTML template.">
-		<meta name="author" content="Your Name Here">
+		<meta name="description" content="Everyone wants to be happier, healthier, and more successful in business and in life. —Spartan Up! gets you there.">
+		<meta name="author" content="Joe De Sena">
 
 		<!-- ==============================================
 		Mobile Metas
