@@ -89,6 +89,56 @@
 		============================================== -->
 
 		<!-- ==============================================
+		About
+		=============================================== -->
+		<section class="co-author light-gray-background" id="co-author">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h2 class="no-margin-bottom"><em>Spartan Up!</em> is co-written by Jeff O'Connell:</h3>
+					</div>
+				</div>
+				<div class="row">
+
+					<!-- ==============================================
+					First Feature
+					=============================================== -->
+					<div class="col-md-6">
+						<p>Jeff O’Connell is editor-in-chief at Bodybuilding.com, the Internet’s largest fitness site. He was formerly editor-in-chief at Muscle &amp; Fitness and executive writer at Men’s Health. His areas of interest include health, fitness, nutrition, personal finance, and profiles, many of which have been cover stories. Much of his profile writing focuses on either celebrities or subculture figures coexisting uneasily with the modern world.</p>
+
+						<p>Along the way, his service journalism has been nominated for a Maggie Award, and his feature writing has earned honorable mention in both The Best American Sports Writing and The Best American Science & Nature Writing anthologies.</p>
+
+						<p>O’Connell has also co-authored four books, most recently KNOCKOUT FITNESS, with Mario Lopez; and the New York Times Bestseller LL COOL J’s PLATINUM WORKOUT, with LL Cool J. His new book, SUGAR NATION, releases in July 2011 with Hyperion books.</p>
+					</div>
+					<!-- End First Feature 
+					============================================== -->
+
+					<!-- ==============================================
+					Second Feature
+					=============================================== -->
+					<div class="col-md-3">
+						<img src="images/Jeff-Oconnell.jpg" alt="Photo of co-author Jeff O'Connell" class="full-width" />
+					</div>
+					<!-- End Second Feature 
+					============================================== -->
+
+					<!-- ==============================================
+					Third Feature
+					=============================================== -->
+					<div class="col-md-3">
+						<img src="images/Sugar-Nation.jpg" alt="Cover of Sugar Nation book" class="full-width" />
+					</div>
+					<!-- End Second Feature 
+					============================================== -->
+
+				</div>
+			</div>
+		</section>
+		<!-- End About 
+		============================================== -->
+
+
+		<!-- ==============================================
 		Hero Section
 		=============================================== -->
 		<section class="color-background hero-section">
