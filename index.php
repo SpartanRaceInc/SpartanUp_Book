@@ -57,6 +57,7 @@
 							<p></p>
 							<a href="http://www.amazon.com/gp/product/0544286170/ref=as_li_tf_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0544286170&amp;linkCode=as2&amp;tag=spartanraceco-20" class="event-button">Order on Amazon</a>
 							<a href="http://www.spartanrace.com/spartan-up-bn" class="event-button">Order on B&amp;N</a>
+							<a href="http://www.indiebound.org/book/9780544286177" class="event-button">Find Locally</a>
 						</div>
 					</div>
 					<!-- End Featured Box

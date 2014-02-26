@@ -12,7 +12,7 @@
 						Logo
 						=============================================== -->
 						<div class="logo float-left">
-							<a href="#top">
+							<a href="index.php">
 								<img src="images/spartan.png" alt="logo-spartan" class="logo">
 							</a>
 						</div>
