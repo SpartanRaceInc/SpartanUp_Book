@@ -224,45 +224,5 @@
 		============================================== -->
 
 
-		<!-- ==============================================
-		About Co-author
-		=============================================== -->
-		<section class="co-author light-gray-background" id="co-author">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<h2 class="no-margin-bottom"><em>Spartan Up!</em> is co-written by Jeff O'Connell:</h3>
-					</div>
-				</div>
-				<div class="row">
-
-					<!-- ==============================================
-					First Column
-					=============================================== -->
-					<div class="col-md-9">
-						<h3>As the Editor-in-Chief of Bodybuilding.com, Jeff O'Connell oversees daily content for the most heavily trafficked fitness site in the world. Previously, O'Connell served as the Editor-in-Chief of Muscle &amp; Fitness magazine.</h3>
-
-						<h3>O'Connell is best known for his own health-and-fitness journalism. He spent three years as Executive Writer at Men's Health magazine, where he handled numerous celebrity profiles and cover stories. His feature writing has earned honorable mention in both The Best American Sports Writing and The Best American Science &amp; Nature Writing anthologies.</h3>
-
-						<h3>O'Connell has co-written several fitness books, including the New York Times Bestseller LL Cool J's <a href="http://www.amazon.com/exec/obidos/ASIN/1594866082/bodybuildingco05" target="_blank">Platinum Workout</a> and <a href="http://www.amazon.com/exec/obidos/ASIN/1583335021/bodybuildingco05" target="_blank">Formula 50</a>, with 50 Cent. His first solo work, <a href="http://www.amazon.com/exec/obidos/ASIN/B0058OCR9K/bodybuildingco05" target="_blank">Sugar Nation</a>, was released in July 2011 to critical acclaim and excerpted at length in the magazines of Times of London, The Weekend Australian and USA Today.</h3>
-					</div>
-					<!-- End First Column 
-					============================================== -->
-
-					<!-- ==============================================
-					Second Column
-					=============================================== -->
-					<div class="col-md-3">
-						<img src="images/Jeff-Oconnell.jpg" alt="Photo of co-author Jeff O'Connell" class="full-width" />
-					</div>
-					<!-- End Second Column 
-					============================================== -->
-
-				</div>
-			</div>
-		</section>
-		<!-- End About Co-author
-		============================================== -->
-
 <?php require_once('partials/footer.php'); ?>
 <?php require_once('partials/aft.php'); ?>
