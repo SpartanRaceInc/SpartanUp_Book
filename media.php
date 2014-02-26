@@ -104,6 +104,14 @@
 								<h3>Photoshop Source Files: <a href="images/spartanup-digital-ads.zip">spartanup-digital-ads.zip</a></h3>
 							</div>
 						</div>
+						<div class="row">
+							<div class="col-md-12">
+								<p class="instruction">Please Use this Amazon link code:</p>
+								<pre><code>&lt;a href=&quot;http://www.amazon.com/gp/product/0544286170/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0544286170&linkCode=as2&tag=spartanraceco-20&quot;&gt;[Place the img tag, or link text here]&lt;/a&gt;</code></pre>
+								<p class="instruction">Please place this tracking pixel somewhere in your page (if possible):</p>
+								<pre><code>&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=spartanraceco-20&l=as2&o=1&a=0544286170&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;</code></pre>
+							</div>
+						</div>
 
 
 					</div>
