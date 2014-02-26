@@ -27,7 +27,7 @@
 							<li><a href="blurbs.php">Blurbs</a></li>
 							<li><a href="joe.php">About</a></li>
 							<li><a href="http://www.spartanrace.com/spartan-obstacle-racing-events.php">Race!</a></li>
-							<li><a href="http://www.spartanrace.com">Subscribe</a></li>
+							<!-- <li><a href="http://www.spartanrace.com" data-toggle="modal" data-target="#myModal">Subscribe</a></li> -->
 						</ul>
 						<!-- End Navigation 
 						=============================================== -->
