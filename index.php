@@ -4,7 +4,7 @@
 		<!-- ==============================================
 		Hero Section
 		=============================================== -->
-		<section class="dark-gray-background hero-section">
+		<section class="dark-gray-background hero-section" id="stinger">
 			<div class="container">
 
 				<div class="row">
@@ -21,7 +21,7 @@
 		<!-- ==============================================
 		Teaser
 		=============================================== -->
-		<section class="teaser">
+		<section class="teaser noFix">
 			<div class="container">
 				<div class="row">
 
@@ -67,13 +67,13 @@
 						<h2 class="padding-top">Inside <span class="color-text">Spartan Up!</span></h2>
 						<h3>&mdash; If you want to change your life you have to change your frame of reference.</h3>
 
-<h3>&mdash; Anyone can demand instant gratification... but if you can delay it, you might just get where you want to go.</h3>
+						<h3>&mdash; Anyone can demand instant gratification... but if you can delay it, you might just get where you want to go.</h3>
 
-<h3>&mdash; Who says easier and faster is always better? Adversity paves the road to success.</h3>
+						<h3>&mdash; Who says easier and faster is always better? Adversity paves the road to success.</h3>
 
-<h3>&mdash; Find out how a young kid breaks out, builds multiple businesses, changes lives, and eventually partners with military SpecOps.</h3>
+						<h3>&mdash; Find out how a young kid breaks out, builds multiple businesses, changes lives, and eventually partners with military SpecOps.</h3>
 
-<h3>&mdash; An entreprenuer from 8 years old Joe has had a passion for life that moves the ball forward against all odds. Born in Queens NY to a yoga teaching, meditation practicing mother and an Italian father that was an uber-entrepreneur the author learned simple techniques for forging ahead no matter the odds.</h3>
+						<h3>&mdash; An entreprenuer from 8 years old Joe has had a passion for life that moves the ball forward against all odds. Born in Queens NY to a yoga teaching, meditation practicing mother and an Italian father that was an uber-entrepreneur the author learned simple techniques for forging ahead no matter the odds.</h3>
 
 
 					</div>

@@ -3,6 +3,7 @@
 		=============================================== -->
 		<script type="text/javascript" src="js/modernizr.js"></script>
 		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 		<script type="text/javascript" src="js/jquery.flexslider.min.js"></script>
 		<script type="text/javascript" src="js/jquery.easing.pack.js"></script>
 		<script type="text/javascript" src="js/jquery.mousewheel.pack.js"></script>
@@ -26,7 +27,6 @@
             // Initialize audioPlayer
 			$( function() { $( 'audio' ).audioPlayer(); } );
 			  
-		
 		</script>
 		<!-- AddThis Smart Layers BEGIN -->
 		<!-- Go to http://www.addthis.com/get/smart-layers to customize -->

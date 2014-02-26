@@ -320,3 +320,16 @@ pre code {
 p.instruction {
 	margin-bottom: 0;
 }
+
+body.fixed-nav .teaser.noFix {
+	margin-top: 0;
+}
+
+body.fixed-nav #stinger {
+	margin-top: 94px;
+
+}
+.modal-dialog {
+	width: 600px;
+	margin: 10rem auto auto auto;
+}
