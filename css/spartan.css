@@ -116,6 +116,14 @@ ul.info li {
 	font-size: 32px;
 } 
 
+.teaser img {
+	margin: 50px 0;
+}
+
+.teaser h2 {
+	margin: 15px 0;	
+}
+
 .featured {
 	margin-top: -355px;
 }
@@ -148,12 +156,12 @@ ul.info li {
 	height: auto;
 }
 
-.teaser img {
-	margin: 50px 0;
+.dark-gray-background h1 {
+	color: white;
 }
 
-.teaser h2 {
-	margin: 15px 0;	
+.color-background h2 {
+	margin-bottom: 0;
 }
 
 .social li a {
@@ -267,4 +275,61 @@ span.smaller {
 
 .tumblr_source p:first-of-type {
 	display: block;
+}
+
+code,
+pre {
+  font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+}
+code {
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #c7254e;
+  background-color: #f9f2f4;
+  white-space: nowrap;
+  border-radius: 0;
+}
+pre {
+  display: block;
+  padding: 9.5px;
+  margin: 0 0 10px;
+  font-size: 13px;
+  line-height: 1.428571429;
+  word-break: break-all;
+  word-wrap: break-word;
+  color: #333333;
+  background-color: #f5f5f5;
+  border: 1px solid #cccccc;
+  border-radius: 0;
+}
+pre.prettyprint {
+  margin-bottom: 20px;
+}
+pre code {
+  padding: 0;
+  font-size: inherit;
+  color: inherit;
+  white-space: pre-wrap;
+  background-color: transparent;
+  border: 0;
+}
+.pre-scrollable {
+  max-height: 340px;
+  overflow-y: scroll;
+}
+p.instruction {
+	margin-bottom: 0;
+}
+
+body.fixed-nav .teaser.noFix {
+	margin-top: 0;
+}
+
+body.fixed-nav #stinger {
+	margin-top: 94px;
+
+}
+.modal-dialog {
+	width: 600px;
+	margin: 10rem auto auto auto;
 }

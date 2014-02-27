@@ -4,7 +4,7 @@
 		<!-- ==============================================
 		Hero Section
 		=============================================== -->
-		<section class="dark-gray-background hero-section">
+		<section class="dark-gray-background hero-section" id="stinger">
 			<div class="container">
 
 				<div class="row">
@@ -21,7 +21,7 @@
 		<!-- ==============================================
 		Teaser
 		=============================================== -->
-		<section class="teaser">
+		<section class="teaser noFix">
 			<div class="container">
 				<div class="row">
 
@@ -50,29 +50,30 @@
 					<!-- ==============================================
 					Featured Box
 					=============================================== -->
-					<div class="col-lg-4 col-lg-offset-1 featured float-right">	
+					<div class="col-lg-4 col-lg-offset-1 featured float-right" style="z-index:30;">	
 						<h2 class="feature-title">Order your copy!</h2>
 						<div class="event-recap">
 							<img src="images/spartanup-cover.png" alt="spartanup-cover" />
 							<p></p>
-							<a href="http://www.spartanrace.com/spartan-up-amz" class="event-button">Order on Amazon</a>
-							<a href="http://www.spartanrace.com/spartan-up-bn" class="event-button">Order on B&N</a>
+							<a href="http://www.amazon.com/gp/product/0544286170/ref=as_li_tf_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0544286170&amp;linkCode=as2&amp;tag=spartanraceco-20" class="event-button">Order on Amazon</a>
+							<a href="http://www.spartanrace.com/spartan-up-bn" class="event-button">Order on B&amp;N</a>
+							<a href="http://www.indiebound.org/book/9780544286177" class="event-button">Find Locally</a>
 						</div>
 					</div>
 					<!-- End Featured Box
 					=============================================== -->
 
-					<div class="col-lg-12">
+					<div class="col-lg-12" style="z-index:1;">
 						<h2 class="padding-top">Inside <span class="color-text">Spartan Up!</span></h2>
 						<h3>&mdash; If you want to change your life you have to change your frame of reference.</h3>
 
-<h3>&mdash; Anyone can demand instant gratification... but if you can delay it, you might just get where you want to go.</h3>
+						<h3>&mdash; Anyone can demand instant gratification... but if you can delay it, you might just get where you want to go.</h3>
 
-<h3>&mdash; Who says easier and faster is always better? Adversity paves the road to success.</h3>
+						<h3>&mdash; Who says easier and faster is always better? Adversity paves the road to success.</h3>
 
-<h3>&mdash; Find out how a young kid breaks out, builds multiple businesses, changes lives, and eventually partners with military SpecOps.</h3>
+						<h3>&mdash; Find out how a young kid breaks out, builds multiple businesses, changes lives, and eventually partners with military SpecOps.</h3>
 
-<h3>&mdash; An entreprenuer from 8 years old Joe has had a passion for life that moves the ball forward against all odds. Born in Queens NY to a yoga teaching, meditation practicing mother and an Italian father that was an uber-entrepreneur the author learned simple techniques for forging ahead no matter the odds.</h3>
+						<h3>&mdash; An entreprenuer from 8 years old Joe has had a passion for life that moves the ball forward against all odds. Born in Queens NY to a yoga teaching, meditation practicing mother and an Italian father that was an uber-entrepreneur the author learned simple techniques for forging ahead no matter the odds.</h3>
 
 
 					</div>
@@ -88,8 +89,9 @@
 		<!-- End Intro 
 		============================================== -->
 
+
 		<!-- ==============================================
-		Hero Section
+		Audio Section
 		=============================================== -->
 		<section class="color-background hero-section">
 			<div class="container">
@@ -106,7 +108,7 @@
 				</div>
 			</div>
 		</section>
-		<!-- End Hero Section 
+		<!-- End Audio Section 
 		============================================== -->
 		
 		<!-- ==============================================
@@ -220,6 +222,7 @@
 		</section>
 		<!-- End Testimonials
 		============================================== -->
+
 
 <?php require_once('partials/footer.php'); ?>
 <?php require_once('partials/aft.php'); ?>

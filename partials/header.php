@@ -1,4 +1,4 @@
-	<body id="top">
+	<body id="top" class="fixed-nav">
 
 		<!-- ==============================================
 		Header
@@ -12,7 +12,7 @@
 						Logo
 						=============================================== -->
 						<div class="logo float-left">
-							<a href="#top">
+							<a href="index.php">
 								<img src="images/spartan.png" alt="logo-spartan" class="logo">
 							</a>
 						</div>
@@ -27,7 +27,7 @@
 							<li><a href="blurbs.php">Blurbs</a></li>
 							<li><a href="joe.php">About</a></li>
 							<li><a href="http://www.spartanrace.com/spartan-obstacle-racing-events.php">Race!</a></li>
-							<li><a href="http://www.spartanrace.com">Subscribe</a></li>
+							<li><a href="#top" data-toggle="modal" data-target="#myModal">Subscribe</a></li>
 						</ul>
 						<!-- End Navigation 
 						=============================================== -->

@@ -1,0 +1,16 @@
+[global]
+ApplicationName=SpartanRace
+AwsCredentialFile=/Users/Josh/.elasticbeanstalk/aws_credential_file
+DevToolsEndpoint=git.elasticbeanstalk.us-west-2.amazonaws.com
+EnvironmentName=SpartanUpBook-Staging
+EnvironmentTier=WebServer::Standard::1.0
+EnvironmentType=SingleInstance
+InstanceProfileName=
+OptionSettingFile=m:/Applications/MAMP/htdocs/SpartanUp_Book/.elasticbeanstalk/optionsettings.SpartanUpBook-Staging
+RdsDeletionPolicy=Snapshot
+RdsEnabled=No
+RdsSourceSnapshotName=
+Region=us-west-2
+ServiceEndpoint=https://elasticbeanstalk.us-west-2.amazonaws.com
+SolutionStack=64bit Amazon Linux 2013.09 running PHP 5.5
+

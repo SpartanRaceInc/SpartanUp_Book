@@ -74,7 +74,7 @@
 					Third Testimonial Column
 					=============================================== -->
 					<div class="col-md-4">
-					<a href="http://spartan-up.tumblr.com" class="button-light leading-md">Speak Up on Tumblr</a>
+					<a href="http://spartan-up.tumblr.com/submit" class="button-light leading-md">Speak Up on Tumblr</a>
 						<script type="text/javascript" src="http://spartan-up.tumblr.com/js?num=3"></script>
 					</div>
 					<!-- End Third Testimonial Column
