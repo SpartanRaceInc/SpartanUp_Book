@@ -25,6 +25,7 @@
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="stylesheet" href="css/style-responsive.css">
 		<link rel="stylesheet" href="css/spartan.css">
+		<link rel="stylesheet" href="css/spartan-responsive.css">
 		<link rel="stylesheet" href="css/audioplayer.css">
 
 		<!--[if IE 7]>
