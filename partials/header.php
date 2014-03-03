@@ -25,7 +25,7 @@
 						<ul class="nav hidden-xs hidden-sm">
 							<li><a href="index.php">Why Buy?</a></li>
 							<li><a href="blurbs.php">Blurbs</a></li>
-							<li><a href="joe.php">About</a></li>
+							<li><a href="joe.php">Author</a></li>
 							<li><a href="http://www.spartanrace.com/spartan-obstacle-racing-events.php">Race!</a></li>
 							<li><a href="#top" data-toggle="modal" data-target="#myModal">Subscribe</a></li>
 						</ul>
