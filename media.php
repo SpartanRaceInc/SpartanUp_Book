@@ -26,6 +26,7 @@
 						<ul class="nav hidden-xs hidden-sm">
 							<li><a href="#ads">Ads</a></li>
 							<li><a href="#audio">Audio</a></li>
+							<li><a href="#video">Video</a></li>
 							<li><a href="#blurbs">Blurbs</a></li>
 							<li><a href="#texts">Texts</a></li>
 							<!-- <li><a href="#video">Video</a></li> -->
@@ -148,6 +149,37 @@
 						<h2>Separate Audio Files:</h2>
 						<h3 class="no-margin-bottom">MP3 Audio File: <a href="audio/joe-su-excerpt.mp3">joe-su-excerpt.mp3</a></h3>
 						<h3 class="no-margin-bottom">WAV Audio File: <a href="audio/joe-su-excerpt.wav">joe-su-excerpt.wav</a></h3>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End About 
+		============================================== -->
+
+		<!-- ==============================================
+		Hero Section
+		=============================================== -->
+		<section class="color-background hero-section" id="video">
+			<div class="container">
+
+				<div class="row">
+					<div class="col-sm-12">
+						<h2>Video:</h2>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Hero Section 
+		============================================== -->		
+		<!-- ==============================================
+		About
+		=============================================== -->
+		<section class="light-gray-background video">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h2 class="no-margin-bottom">Burpees and the Art of Pool Maintenance:</h2>
+						<iframe width="560" height="315" src="//www.youtube.com/embed/ENvWWEBApMk" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>
 			</div>
