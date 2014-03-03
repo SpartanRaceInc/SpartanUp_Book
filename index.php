@@ -57,25 +57,23 @@
 							<p></p>
 							<a href="http://www.amazon.com/gp/product/0544286170/ref=as_li_tf_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0544286170&amp;linkCode=as2&amp;tag=spartanraceco-20" class="event-button">Order on Amazon</a>
 							<a href="http://www.spartanrace.com/spartan-up-bn" class="event-button">Order on B&amp;N</a>
-							<a href="http://www.indiebound.org/book/9780544286177" class="event-button">Find Locally</a>
+							<a href="http://www.indiebound.org/book/9780544286177" class="event-button">Order on IndieBound</a>
 						</div>
 					</div>
 					<!-- End Featured Box
 					=============================================== -->
 
 					<div class="col-lg-12" style="z-index:1;">
-						<h2 class="padding-top">Inside <span class="color-text">Spartan Up!</span></h2>
-						<h3>&mdash; If you want to change your life you have to change your frame of reference.</h3>
+						<h2 class="padding-top"><span class="color-text">Spartan Up!</span> Guide to Life</h2>
+						<h3 class="strong">&#149; If you want to change your life you have to change your frame of reference.</h3>
 
-						<h3>&mdash; Anyone can demand instant gratification... but if you can delay it, you might just get where you want to go.</h3>
+						<h3 class="strong">&#149; Anyone can demand instant gratification... but if you can delay it, you might just get where you want to go.</h3>
 
-						<h3>&mdash; Who says easier and faster is always better? Adversity paves the road to success.</h3>
+						<h3 class="strong">&#149; Who says easier and faster is always better? Adversity paves the road to success.</h3>
+						
+						<h2>Who is Joe?</h2>
 
-						<h3>&mdash; Find out how a young kid breaks out, builds multiple businesses, changes lives, and eventually partners with military SpecOps.</h3>
-
-						<h3>&mdash; An entreprenuer from 8 years old Joe has had a passion for life that moves the ball forward against all odds. Born in Queens NY to a yoga teaching, meditation practicing mother and an Italian father that was an uber-entrepreneur the author learned simple techniques for forging ahead no matter the odds.</h3>
-
-
+						<h3>An entrepreneur from 8 years old Joe has had a passion for life that moves the ball forward against all odds. Born in Queens NY to a yoga teaching, meditation practicing mother and an Italian father that was an uber-entrepreneur the author learned simple techniques for forging ahead no matter the odds. Find out how a young kid breaks out, builds multiple businesses, changes lives, and eventually partners with military SpecOps.</h3>
 					</div>
 
 				</div>
@@ -131,7 +129,6 @@
 						<ul class="info">
 							<li><strong>Finding the will to succeed:</strong> The first half of a race you run with your legs; the second half you run with your mind. Turn your pain into an outboard motor to drive you forward.</li>
 							<li><strong>Tossing your cookies:</strong> The Cookie Test can teach you how to overcome the need for immediate gratification and help you prosper in the long term.</li>
-							<li><strong>Changing your frame of reference:</strong> Reset your inner default as an antidote to dissatisfaction and insatiable need for “more.” </li>
 						</ul>
 					</div>
 					<!-- End First Feature 
