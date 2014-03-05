@@ -157,7 +157,7 @@
 		============================================== -->
 
 		<!-- ==============================================
-		Hero Section
+		Hero Video
 		=============================================== -->
 		<section class="color-background hero-section" id="video">
 			<div class="container">
@@ -169,22 +169,24 @@
 				</div>
 			</div>
 		</section>
-		<!-- End Hero Section 
+		<!-- End Hero Video 
 		============================================== -->		
 		<!-- ==============================================
-		About
+		Video
 		=============================================== -->
 		<section class="light-gray-background video">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
+						<h2 class="no-margin-bottom">Spartan Up! by Joe De Sena</h2>
+						<iframe width="560" height="315" src="//www.youtube.com/embed/n4bmJSt4Ahw" frameborder="0" allowfullscreen></iframe>
 						<h2 class="no-margin-bottom">Burpees and the Art of Pool Maintenance:</h2>
 						<iframe width="560" height="315" src="//www.youtube.com/embed/ENvWWEBApMk" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>
 			</div>
 		</section>
-		<!-- End About 
+		<!-- End Video 
 		============================================== -->
 		
 		
