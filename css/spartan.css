@@ -72,6 +72,11 @@ h1 {
 	font-weight: bold;
 	letter-spacing: -0.05rem;
 }
+
+strong, .strong {
+	font-weight: 500;
+}
+
 .header {
 	background: #151515;
 	height: 93px;

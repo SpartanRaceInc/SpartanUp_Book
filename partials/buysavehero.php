@@ -16,7 +16,7 @@
 					</div>
 					
 					<div class="col-sm-2">
-						<a href="http://www.indiebound.org/book/9780544286177" class="button-dark">Find on IndieBound</a>
+						<a href="http://www.indiebound.org/book/9780544286177" class="button-dark">Order on IndieBound</a>
 					</div>
 				</div>
 			</div>
