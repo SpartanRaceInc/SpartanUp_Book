@@ -25,6 +25,7 @@
 						=============================================== -->
 						<ul class="nav hidden-xs hidden-sm">
 							<li><a href="#ads">Ads</a></li>
+							<li><a href="#photos">Photos</a></li>
 							<li><a href="#audio">Audio</a></li>
 							<li><a href="#video">Video</a></li>
 							<li><a href="#blurbs">Blurbs</a></li>
@@ -122,6 +123,80 @@
 		</section>
 		<!-- End Intro 
 		============================================== -->
+		
+		<!-- ==============================================
+		Hero Section
+		=============================================== -->
+		<section class="color-background hero-section" id="photos">
+			<div class="container">
+
+				<div class="row">
+					<div class="col-sm-12">
+						<h2>Photos:</h2>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Hero Section 
+		============================================== -->
+
+		<!-- ==============================================
+		Intro
+		=============================================== -->
+		<section class="white-background">
+			<div class="container">
+				<div class="row">
+
+					<div class="col-lg-12">
+						<h2 class="padding-top">Photos of Joe De Sena:</h2>
+						<p class="instruction">Right click and "save image as..." to get the full available resolution.</p>
+
+						<div class="row">
+							<div class="col-sm-4">
+								<h3 class="top-caption">joe-q-and-a.jpg:</h3>
+								<img src="images/joe-q-and-a.jpg" alt="joe-q-and-a" class="img-responsive"  />
+								
+								<h3 class="top-caption">joe-sandbag-milwaukee.jpg</h3>
+								<img src="images/joe-sandbag-milwaukee.jpg" alt="joe-sandbag-milwaukee" class="img-responsive" />
+								
+								<h3 class="top-caption">joe-eng-interview-photocredit_barrie-fisher.jpg</h3>
+								<img src="images/joe-eng-interview-photocredit_barrie-fisher.jpg" alt="joe-eng-interview-photocredit_barrie-fisher" class="img-responsive" />
+							</div>
+							
+							<div class="col-sm-4">
+								<h3 class="top-caption">joe-killington.jpg</h3>
+								<img src="images/joe-killington.jpg" alt="joe-killington" class="img-responsive" />
+								
+								<h3 class="top-caption">joe-headshot-photocredit_barrie-fisher.jpg</h3>
+								<img src="images/joe-headshot-photocredit_barrie-fisher.jpg" alt="joe-headshot-photocredit_barrie-fisher" class="img-responsive" />
+								<h3 class="top-caption">joe-at-festival-tent.jpg</h3>
+								<img src="images/joe-at-festival-tent.jpg" alt="joe-at-festival-tent" class="img-responsive" />
+							</div>
+							
+							<div class="col-sm-4">
+								<h3 class="top-caption">joe-training.jpg</h3>
+								<img src="images/joe-training.jpg" alt="joe-training" class="img-responsive" />
+								
+								<h3 class="top-caption">joe-hh-staten-island.jpg</h3>
+								<img src="images/joe-hh-staten-island.jpg" alt="joe-hh-staten-island" class="img-responsive" />
+								
+								<h3 class="top-caption">joe-using-talky.jpg</h3>
+								<img src="images/joe-using-talky.jpg" alt="joe-using-talky" class="img-responsive" />
+							</div>
+						</div>
+
+					</div>
+
+				</div>
+			</div>
+		</section>
+		<!-- End Intro 
+		============================================== -->
+		
+		
+		
+		
+		
 		<!-- ==============================================
 		Hero Section
 		=============================================== -->

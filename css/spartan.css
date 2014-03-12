@@ -322,7 +322,7 @@ pre code {
   max-height: 340px;
   overflow-y: scroll;
 }
-p.instruction, h2.top-caption {
+p.instruction, h2.top-caption, h3.top-caption {
 	margin-bottom: 0;
 }
 
