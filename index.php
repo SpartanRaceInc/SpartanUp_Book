@@ -29,7 +29,7 @@
 					Video
 					=============================================== -->
 					<div class="col-sm-7">
-						<iframe class="video" src="//www.youtube.com/embed/8hrn7XGemSU" frameborder="0" allowfullscreen></iframe>
+						<iframe class="video" src="//www.youtube.com/embed/n4bmJSt4Ahw" frameborder="0" allowfullscreen></iframe>
 					</div>
 					<!-- End Video
 					=============================================== -->
