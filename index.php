@@ -29,7 +29,7 @@
 					Video
 					=============================================== -->
 					<div class="col-sm-7">
-						<iframe src="//player.vimeo.com/video/89059951?title=0&amp;byline=0&amp;portrait=0" class="video" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+						<iframe src="//player.vimeo.com/video/89059951?title=0&amp;byline=0&amp;portrait=0" class="video" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <h3><a href="http://vimeo.com/89059951">STFU - Spartan Up Promo</a> from <a href="http://vimeo.com/user8045119">SpartanRace</a> on <a href="https://vimeo.com">Vimeo</a>.</h3>
 					</div>
 					<!-- End Video
 					=============================================== -->
