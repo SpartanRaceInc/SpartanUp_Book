@@ -255,6 +255,8 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
+						<h2 class="top-caption">STFU | Book Promo - Short</h2>
+						<iframe src="//player.vimeo.com/video/89059951?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 						<h2 class="top-caption">Spartan Up! by Joe De Sena</h2>
 						<iframe width="560" height="315" src="//www.youtube.com/embed/n4bmJSt4Ahw" frameborder="0" allowfullscreen></iframe>
 						<h2 class="top-caption">Burpees and the Art of Pool Maintenance:</h2>
