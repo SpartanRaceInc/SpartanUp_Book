@@ -1,4 +1,7 @@
-<?php require_once('partials/fore.php'); ?>
+<?php
+	$pageTitle = 'Home';
+	require_once('partials/fore.php');
+?>
 <?php require_once('partials/header.php'); ?>
 
 		<!-- ==============================================

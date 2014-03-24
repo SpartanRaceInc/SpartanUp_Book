@@ -6,7 +6,7 @@
 		Title and basic Metas
 		=============================================== -->
 		<meta charset="utf-8">
-		<title>Spartan Up! by Joseph De Sena</title>
+		<title>Spartan Up! by Joseph De Sena | <?php echo $pageTitle ?></title>
 		<meta name="description" content="Everyone wants to be happier, healthier, and more successful in business and in life. —Spartan Up! gets you there.">
 		<meta name="author" content="Joe De Sena">
 

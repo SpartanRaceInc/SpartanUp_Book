@@ -1,4 +1,7 @@
-<?php require_once('partials/fore.php'); ?>
+<?php
+	$pageTitle = 'Media';
+	require_once('partials/fore.php');
+?>
 	<body id="top">
 
 		<!-- ==============================================
