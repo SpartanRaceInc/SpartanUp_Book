@@ -12,7 +12,7 @@
 
 				<div class="row">
 					<div class="col-sm-12">
-						<h2>Everyone wants to be happier, healthier, and more successful in business and in life. <em>&mdash;Spartan Up!</em> gets you there.</h2>
+						<h2>Everyone wants to be fitter, happier, healthier, and more successful in business and in life. <em>&mdash;Spartan Up!</em> gets you there.</h2>
 					</div>
 				</div>
 			</div>
