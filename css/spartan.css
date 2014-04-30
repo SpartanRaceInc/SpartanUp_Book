@@ -217,7 +217,12 @@ audio {
 .dark-gray-background h2 {
 	color: #ffffff;
 	margin: 0px;
-	font-weight: 700;
+	font-weight: 500;
+}
+
+.dark-gray-background h3 {
+	color: white;
+	font-size: 19px;
 }
 
 .dark-gray-background .container {
