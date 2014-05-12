@@ -15,8 +15,8 @@
 						<h2>Everyone wants to be fitter, happier, healthier, and more successful in business and in life. <em>&mdash;Spartan Up!</em> gets you there.</h2>
 					</div>
 					<div class="col-sm-4">
-						<h3>Join us for the NYC May 15th Book Signing.</h3>
-						<a href="https://endurancecui.active.com/event-reg/select-race?e=7380052" class="button-dark">RSVP Now!</a>
+						<h3>Recieve rewards with book purchases.</h3>
+						<a href="incentives.php" class="button-dark">Redeem Now!</a>
 					</div>
 				</div>
 			</div>
