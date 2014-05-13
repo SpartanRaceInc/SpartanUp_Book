@@ -281,6 +281,26 @@ table {
 	color: #ffffff;
 }
 
+.button-buzz {	
+	background: #E2DD21;
+	padding: 12px 30px 12px 30px;
+	font-size: 20px;
+	font-family: 'Lato', sans-serif;
+	-webkit-border-radius: 10px; 
+	-moz-border-radius: 10px; 
+	-o-border-radius: 10px; 
+	border-radius: 10px;
+	-webkit-transition: background linear .2s, color linear .2s;
+	-moz-transition: background linear .2s, color linear .2s;
+	-o-transition: background linear .2s, color linear .2s;
+	display: block;
+	text-align: center;
+}
+
+.button-buzz:hover {
+	color: #ffffff;
+}
+
 .form-error {
 	background-color: #610000 !important;
 }

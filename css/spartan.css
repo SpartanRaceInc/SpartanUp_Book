@@ -11,6 +11,7 @@ h4,
 a,
 .color-text,
 .button-dark,
+.button-buzz,
 ul.nav li a:hover,
 ul.nav li.active a,
 .featured .event-recap div h3,
@@ -29,6 +30,7 @@ a:hover {
 
 .color-background,
 .button-dark:hover,
+.button-buzz:hover,
 .flex-control-paging li a.flex-active,
 .featured h2,
 .featured form input[type="submit"],
@@ -145,7 +147,7 @@ ul.info li {
 	border-radius: 3px;
 }
 
-.featured form input[type="submit"], .button-dark, .button-light, .featured a.event-button {
+.featured form input[type="submit"], .button-dark, .button-buzz, .button-light, .featured a.event-button {
 	box-shadow: inset 0px -4px 0px rgba(0,0,0,0.3);
 	padding: 12px 20px 18px 20px;
 	border-radius: 3px;

@@ -12,7 +12,7 @@
 
 				<div class="row">
 					<div class="col-sm-12">
-						<h2>Bonus Book Deals!</h2>
+						<h2 style="color: white;font-weight:900;text-transform:uppercase">Bonus Book Deals!</h2>
 					</div>
 				</div>
 			</div>
@@ -337,7 +337,7 @@ Spend a week with Joe & The Spartan Team at Spartan HQ, fitness, training, meals
 				<div class="row">
 					<div class="col-md-12">
 						<ul class="info">
-You will be set up with a guide and 3 guests of your choice to climb Mount Everest. All gear and expenses are fully covered. Also experience an entire summer stay at Spartan HQ, all expenses covered. Spend the summer with Joe and the Spartan team and live the life of a true Spartan - <strong>$300,000 value, limited to 1 participant</strong>
+You will be set up with a guide and 3 guests of your choice to climb Mount Kilimanjaro. All gear and expenses are fully covered. Also experience an entire summer stay at Spartan HQ, all expenses covered. Spend the summer with Joe and the Spartan team and live the life of a true Spartan - <strong>$300,000 value, limited to 1 participant</strong>
 						</ul>
 					</div>
 				</div>
