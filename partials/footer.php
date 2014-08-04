@@ -7,8 +7,8 @@
 				<div class="row">
 					<div class="col-sm-6">
 						<p class="no-margin-bottom">Spartan Race<br>
-						109 Kingston Street, 4th Floor <br>Boston, MA 02111<br>
-						(432) 555-9876<br></p>			
+						109 Kingston Street, 4th Floor <br>Boston, MA 02111
+						</p>			
 					</div>
 					<!-- ==============================================
 					Social
